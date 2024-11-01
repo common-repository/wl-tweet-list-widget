@@ -1,0 +1,97 @@
+# Copyright (C) 2015 WL Tweet List
+# This file is distributed under the same license as the WL Tweet List package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WL Tweet List 1.2.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wl-tweet-list-"
+"widget\n"
+"POT-Creation-Date: 2016-04-01 10:49+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Weblogiq <info@weblogiq.nl>\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: wl-tweet-list.php\n"
+
+#: wl-tweet-list.php:18
+msgid "Show your latest tweets on your website"
+msgstr ""
+
+#: wl-tweet-list.php:121
+msgid "Tweets"
+msgstr ""
+
+#: wl-tweet-list.php:125
+msgid "Title"
+msgstr ""
+
+#: wl-tweet-list.php:130
+msgid "Twitter Username"
+msgstr ""
+
+#: wl-tweet-list.php:135
+msgid "Twitter Widget Id (Required)"
+msgstr ""
+
+#: wl-tweet-list.php:137
+msgid ""
+"Get Your Twitter Widget Id <a href=\"https://twitter.com/settings/widgets"
+"\" target=\"_blank\">here</a>:"
+msgstr ""
+
+#: wl-tweet-list.php:141
+msgid "Number of Tweets"
+msgstr ""
+
+#: wl-tweet-list.php:146
+msgid "Theme"
+msgstr ""
+
+#: wl-tweet-list.php:154
+msgid "Height"
+msgstr ""
+
+#: wl-tweet-list.php:159
+msgid "Width"
+msgstr ""
+
+#: wl-tweet-list.php:167
+msgid "Transparent background"
+msgstr ""
+
+#: wl-tweet-list.php:174
+msgid "Show header"
+msgstr ""
+
+#: wl-tweet-list.php:181
+msgid "Show footer"
+msgstr ""
+
+#: wl-tweet-list.php:188
+msgid "Show borders"
+msgstr ""
+
+#: wl-tweet-list.php:195
+msgid "Show scrollbar"
+msgstr ""
+
+#: wl-tweet-list.php:202
+msgid "Exclude Replies on Tweets"
+msgstr ""
+
+#: wl-tweet-list.php:209
+msgid "Auto Expand Photos in Tweets"
+msgstr ""
+
+#: wl-tweet-list.php:213
+msgid "URL Link Color"
+msgstr ""
+
+#: wl-tweet-list.php:219
+msgid "Border Color"
+msgstr ""
